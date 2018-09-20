@@ -96,12 +96,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -160,16 +160,20 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pessoas_cinza_24dp.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
@@ -230,6 +234,10 @@
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/16db39e74673fb5a4d6d56625cd2692a/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pessoas_cinza_24dp.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -320,10 +328,6 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/16db39e74673fb5a4d6d56625cd2692a/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_fragment_clientes2.xml.flat",
-        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/layout/fragment_clientes2.xml"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/res/layout/design_navigation_menu_item.xml"
     },
@@ -346,6 +350,10 @@
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pessoas_cinza_24dp.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
@@ -468,6 +476,10 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pessoas_cinza_24dp.png"
+    },
+    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_item_background_holo_light.xml"
     },
@@ -540,12 +552,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/color-v23/abc_tint_default.xml"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
@@ -560,12 +572,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_inbox_grey_24dp.png.flat",
         "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_inbox_grey_24dp.png"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
@@ -612,12 +624,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_manage.xml.flat",
         "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -884,6 +896,10 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pessoas_cinza_24dp.png"
+    },
+    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
     },
@@ -922,6 +938,10 @@
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pessoas_cinza_24dp.xml.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pessoas_cinza_24dp.xml"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -1108,12 +1128,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
-        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/layout_fragment_principal.xml.flat",
         "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/layout/fragment_principal.xml"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
@@ -1308,12 +1328,12 @@
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_send.xml.flat",
@@ -1990,6 +2010,10 @@
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pessoas_cinza_24dp.png.flat",
+        "source": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pessoas_cinza_24dp.png"
     },
     {
         "merged": "/home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
