@@ -16,5 +16,6 @@
     <string name="titulo2_definicoes">Inforamções de definições</string>
     <string name="texto_definicoes">A definição e análise de indicadores permitem avaliar o desempenho da organização de acordo com as metas estabelecidas, possibilitando seu acompanhamento e permitindo que sejam feitas as adequações necessárias para atingir os resultados desejados.</string>
     <string name="texto_clientes">Em mais de 15 anos de existência a ATM acumula experiência em know how em empresas nacionais e multinacionais, de diversos portes, em vários segmentos, em todo o território nacional.</string>
+    <string name="title_activity_sobre">SobreActivity</string>
 
 </resources>

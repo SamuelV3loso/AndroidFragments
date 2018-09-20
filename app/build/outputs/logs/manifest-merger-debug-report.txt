@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:design:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aluno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1bf2a8d1859b5702824d80e8e239133a/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:transition:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b86619838601a6cd2f665888b442a0ec/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5c0a2ce063f98cbae826d69fd1d40620/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.medyo:android-about-page:1.2.4] /home/aluno/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/cbe67efdfa080a42fa76b4e8ff9241d7/AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/68c20989ecfa5757892489970bf0e3f1/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/55a1c70c79fffbd87d9bb7599c30c7e9/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8a9bc023ce56ab1cc211f3e664602754/AndroidManifest.xml:17:1-28:12
@@ -18,25 +19,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/aluno/.gradle/
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b546b2d8f29f071e9443ff312d684e4/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/16db39e74673fb5a4d6d56625cd2692a/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ce0e6593e582886a13222f5941168c46/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:3:5-54
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support:design:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/966b68223777dbe96caead4994729c2f/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8671fe7dfa29d2e225c6de97b72a8994/AndroidManifest.xml:25:5-29:19
@@ -95,6 +96,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#br.com.ibgenesis.atmconsultoriamanhanew.activity.SobreActivity
+ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:24:13-57
+	android:theme
+		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml:23:13-51
 uses-sdk
 INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/aluno/Downloads/ATMConsultoriaManhaNew-master/app/src/main/AndroidManifest.xml
@@ -109,6 +118,8 @@ MERGED from [com.android.support:transition:26.1.0] /home/aluno/.gradle/caches/t
 MERGED from [com.android.support:transition:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b86619838601a6cd2f665888b442a0ec/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5c0a2ce063f98cbae826d69fd1d40620/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5c0a2ce063f98cbae826d69fd1d40620/AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.medyo:android-about-page:1.2.4] /home/aluno/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/cbe67efdfa080a42fa76b4e8ff9241d7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:android-about-page:1.2.4] /home/aluno/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/cbe67efdfa080a42fa76b4e8ff9241d7/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/68c20989ecfa5757892489970bf0e3f1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/68c20989ecfa5757892489970bf0e3f1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/aluno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/55a1c70c79fffbd87d9bb7599c30c7e9/AndroidManifest.xml:20:5-44

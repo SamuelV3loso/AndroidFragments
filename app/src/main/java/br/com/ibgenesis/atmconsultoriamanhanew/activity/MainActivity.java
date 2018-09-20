@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity
             enviarEmail();
 
         } else if (id == R.id.nav_sobre) {
-
+            startActivity(new Intent(this, SobreActivity.class));
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -127,6 +127,8 @@ public class MainActivity extends AppCompatActivity
         email.putExtra(Intent.EXTRA_TEXT, "Mensagem automática");
 
         email.setType("message/rfc822");
+        //email.setType("application/pdf");
+        //email.setType("image/png");
         startActivity( Intent.createChooser(email, "Escolha o app de e-mail") );
     }
 }
