@@ -1,5 +1,6 @@
 package br.com.ibgenesis.atmconsultoriamanhanew.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -30,15 +31,13 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        PrincipalFragment principalFragment = new PrincipalFragment();
-        carregarFragment(principalFragment);
+        carregarFragment(new PrincipalFragment());
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                enviarEmail();
             }
         });
 
@@ -92,21 +91,19 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_principal) {
 
-            PrincipalFragment principalFragment = new PrincipalFragment();
-            carregarFragment(principalFragment);
+            carregarFragment(new PrincipalFragment());
 
             // Handle the camera action
         } else if (id == R.id.nav_servicos) {
 
-            ServicosFragment servicosFragment = new ServicosFragment();
-            carregarFragment(servicosFragment);
+            carregarFragment(new ServicosFragment());
 
         } else if (id == R.id.nav_clientes) {
 
-            ClientesFragment clientesFragment = new ClientesFragment();
-            carregarFragment(clientesFragment);
+            carregarFragment(new ClientesFragment());
 
         } else if (id == R.id.nav_contato) {
+            enviarEmail();
 
         } else if (id == R.id.nav_sobre) {
 
@@ -121,5 +118,15 @@ public class MainActivity extends AppCompatActivity
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
         fragmentTransaction.replace(R.id.frameContainer, fragment);
         fragmentTransaction.commit();
+    }
+
+    private void enviarEmail(){
+        Intent email = new Intent( Intent.ACTION_SEND );
+        email.putExtra(Intent.EXTRA_EMAIL, new String[]{"samuelveloso42@gmail.com", "atmconsultoria@gmail.com"} );
+        email.putExtra(Intent.EXTRA_SUBJECT, "Contato pelo app");
+        email.putExtra(Intent.EXTRA_TEXT, "Mensagem automática");
+
+        email.setType("message/rfc822");
+        startActivity( Intent.createChooser(email, "Escolha o app de e-mail") );
     }
 }
